@@ -17,7 +17,7 @@ const usestyles = makeStyles({
     button: {
         width: 150,
         height: 40,
-        background: "#e67e22",
+        backgroundColor: "blue",
         marginTop: 5
     }
 })
